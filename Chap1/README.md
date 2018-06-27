@@ -26,10 +26,12 @@ int main()
 }
 ```
 Ques-3: Write a program using one print statement to print the pattern of asterisks as shown below:
+```
 *
 **
 ***
 ****
+```
 ```
 #include<stdio.h>
 int main()
@@ -39,11 +41,13 @@ int main()
 }
 ```
 Ques-4: Write a program that will print the following figure using suitable characters.
+```
  ___________                     _____________
 |           |                   |             |
 |           |                   |             |
 |           |   >----------->   |             |
 |___________|                   |_____________|
+```
 ```
 #include<stdio.h>
 int main()
